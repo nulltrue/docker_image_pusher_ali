@@ -1,8 +1,8 @@
-jenkins/jenkins:2.361.3-lts-jdk11
-jenkins/inbound-agent:4.11-1-jdk11
-node:14.17.6
-docker
-maven:3.6-alpine
-cnych/kubectl
-cnych/helm
+#jenkins/jenkins:2.361.3-lts-jdk11
+#jenkins/inbound-agent:4.11-1-jdk11
+#node:14.17.6
+#docker
+#maven:3.6-alpine
+#cnych/kubectl
+#cnych/helm
 moby/buildkit:buildx-stable-1
