@@ -5,3 +5,4 @@ docker
 maven:3.6-alpine
 cnych/kubectl
 cnych/helm
+moby/buildkit:buildx-stable-1
