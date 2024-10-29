@@ -5,3 +5,4 @@
 #maven:3.6-alpine
 #cnych/kubectl
 #cnych/helm
+java:alpine
