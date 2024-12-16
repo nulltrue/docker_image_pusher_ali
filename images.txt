@@ -6,4 +6,5 @@
 #cnych/kubectl
 #cnych/helm
 #alpine/java:b08-jdk
-alpine/java:b08-jre
+#alpine/java:b08-jre
+google_containers/coredns:1.3.1
